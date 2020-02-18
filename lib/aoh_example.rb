@@ -39,5 +39,6 @@ end
 xavier = [{:name=>"Don Gately", :occupation=>"Live-in Staff"}, {:name=>"Joelle van Dyne", :occupation=>"Radio Personality"}, {:name=>"Pat Monteseian", :occupat
 ion=>"Staff"}, {:name=>"Kate Gompert", :occupation=>"None"}, {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}]
 
-print xavier[0][:name]
+value =  xavier[0][:name]
+print value
 print assembled_aoh
