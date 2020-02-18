@@ -40,4 +40,3 @@ xavier = [{:name=>"Don Gately", :occupation=>"Live-in Staff"}]
 
 value =  xavier[0][:name]
 print value
-print assembled_aoh
